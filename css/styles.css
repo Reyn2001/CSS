@@ -111,7 +111,7 @@ span.underline {
 
 /*******************************skill row**************************************/
 .skill-row {
-  width: 50%;
+  width: 35%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
@@ -120,7 +120,7 @@ span.underline {
 }
 
 .graphic-designer {
-  width: 50%;
+  width: 35%;
   float: left;
   margin-right: 30px;
   margin-top: 80px;
