@@ -120,7 +120,7 @@ span.underline {
 }
 
 .graphic-designer {
-  width: 25%;
+  width: 50%;
   float: left;
   margin-right: 30px;
   margin-top: 80px;
@@ -128,7 +128,7 @@ span.underline {
 }
 
 .web-dev {
-  width: 25%;
+  width: 50%;
   float: right;
   margin-left: 30px;
   margin-top: 30px;
